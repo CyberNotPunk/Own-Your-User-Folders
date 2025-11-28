@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Own Your User Folders</h1>
+<h1>☢️ Own Your User Folders ☢️</h1>
 </br>
 <p>Have you ever dreamed of fully own your computer ? Well, Microsoft did, and don't want you to do the same. Here's a script to take back ownership of your files, mainly if you rename a user and want to transfer his files correctly to his new C:\Users\ .</p>
 </br>
